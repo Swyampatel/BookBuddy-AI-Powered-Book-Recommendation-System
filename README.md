@@ -52,4 +52,4 @@ Below is a sample output from the recommendation system:
 - Add support for user ratings and collaborative filtering.
 
 ---
-
+Please feel free to reach out if you have any questions or need clarification regarding the project. I’d be happy to assist!
